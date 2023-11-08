@@ -1,7 +1,7 @@
-<h1>Welcome to my Profile<h1> <a href="https://www.linkedin.com/in/lucas-c-a8113b175/">linkedIn</a>
+<h1>Welcome to my Profile<h1>
 
 <h2>📈About Me:</h2>
-<b>I am Lucas Chan, a student at LSE pursuing my Bachelors in Management. I am passionate about the area of Finance and Technology, with aspirations to read MSc Computer Science and work in the field of Finance and Investments.</b>
+<b>I am Lucas Chan, a student at LSE pursuing my Bachelors in Management. I am passionate about the area of Finance and Technology, with aspirations to read MSc Computer Science and work in the field of Finance and Investments.</b><br><a href="https://www.linkedin.com/in/lucas-c-a8113b175/">LinkedIn</a>
 
 
 <h2>👨‍💻Projects:</h2>
