@@ -4,4 +4,4 @@
 
 <h2>👨‍💻Projects:</h2>
 - <b>Predicting Virality of Social Media Post</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - ([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/lucas120301/lucas120301.github.io/blob/main/Final%20Project%20-%20Business%20Analytics%20Using%20Python.py)https://github.com/lucas120301/lucas120301.github.io/blob/main/Final%20Project%20-%20Business%20Analytics%20Using%20Python.py)
